@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="94.0" prefWidth="361.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="se2203b.ipayroll.AlertController">
+   <children>
+      <Label fx:id="error" prefHeight="111.0" prefWidth="642.0" style="-fx-alignment: center;" text="Label" wrapText="true" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="10.0" />
+   </children>
+</AnchorPane>

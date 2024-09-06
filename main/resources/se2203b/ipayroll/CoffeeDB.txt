@@ -1,0 +1,18 @@
+14-001 8.95 Bolivian Dark
+14-002 8.95 Bolivian Medium
+15-001 7.95 Brazilian Dark
+15-002 7.95 Brazilian Medium
+15-003 8.55 Brazilian Decaf
+16-001 9.95 Central American Dark
+16-002 9.95 Central American Medium
+17-001 7.95 Sumatra Dark
+17-002 8.95 Sumatra Decaf
+17-003 7.95 Sumatra Medium
+17-004 11.95 Sumatra Organic Dark
+18-001 18.45 Kona Medium
+18-002 18.45 Kona Dark
+19-001 9.65 French Roast Dark
+20-001 6.85 Galapagos Medium
+21-001 9.95 Guatemalan Dark
+21-002 10.45 Guatemalan Decaf
+21-003 9.95 Guatemalan Medium
